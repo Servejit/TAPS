@@ -47,7 +47,7 @@ st.set_page_config(
 # TAPS role-specific deployment
 TAPS_APP_ROLE = "Teacher"
 TAPS_APP_TITLE = "Teacher School ERP"
-TAPS_ALLOWED_ROLES = ["Teacher","Admin+Teacher"]
+TAPS_ALLOWED_ROLES = ["SuperAdmin","Teacher","Admin+Teacher"]
 
 # =========================================================
 # SUPABASE
